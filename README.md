@@ -7,7 +7,7 @@ Adding line for rebasing
 Please fork this repo and then issue Pull Requests for review.
 
 ## Copyright
-2023 git.training
+2023 git.training. All rights reserved.
 
 
 Yup, doing it again
