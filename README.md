@@ -2,6 +2,7 @@
 Updating for example
 
 Adding line for rebasing
+Emergency fix after stash
 
 ## How To Contribute
 Please fork this repo and then issue Pull Requests for review.
